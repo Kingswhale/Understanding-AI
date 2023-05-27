@@ -1,2 +1,3 @@
-Understanding Artificial Intelligence.
-Introduction
+## Understanding Artificial Intelligence.
+
+### Introduction
